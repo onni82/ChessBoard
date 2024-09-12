@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * NET24
+ * ONNI BUCHT
+ * CHAS ACADEMY
+ * PROGRAMMERING MED C# OCH .NET
+ * LAB 2
+ */
+using System;
 
 namespace ChessBoard
 {
@@ -48,11 +55,6 @@ namespace ChessBoard
 			{
 				Console.WriteLine("Du matade inte in ett tal.");
 			}
-
-			//Console.WriteLine($"{row}");
-
-			//Console.WriteLine("Skriv antal kolumner:");
-			//int column = int.Parse(Console.ReadLine()); // checks if an int variable for the amount of columns, based on user input ◻︎
 		}
 	}
 }
